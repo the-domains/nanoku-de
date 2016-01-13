@@ -1,0 +1,28 @@
+name: Nanoku.de
+favicon: null
+layout_spectrum: 0.9874184364452958
+typography_spectrum: 0.044251671293750405
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.864493707427755
+  lightness: 0.7777002758812159
+  saturation: 0.05632478604093194
+  rhythmicContrast: 0.3556893118657172
+purpose: []
