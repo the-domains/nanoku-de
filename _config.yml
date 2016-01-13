@@ -2,6 +2,7 @@ name: Nanoku.de
 favicon: null
 layout_spectrum: 0.9874184364452958
 typography_spectrum: 0.044251671293750405
+title: nanoku
 cta:
   domain: null
   bucket: null
